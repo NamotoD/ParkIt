@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.oto.drahonovsky.parkIt"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.oto.drahonovsky.parkIt"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.oto.drahonovsky.parkIt"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.oto.drahonovsky.parkIt"
+    }
+  },
+  "dependent_plugins": {}
+}
